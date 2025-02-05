@@ -1,2 +1,2 @@
-# CeA
+# neurons
  calcium data analysis
